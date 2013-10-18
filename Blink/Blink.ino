@@ -3,6 +3,8 @@
   Turns on an LED on for one second, then off for one second, repeatedly.
  
   This example code is in the public domain.
+  
+   We got it here: http://arduino.cc/en/Tutorial/Blink
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
